@@ -1,0 +1,6 @@
+@QueteASP.Net_HostAddress = http://localhost:5258
+
+GET {{QueteASP.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
